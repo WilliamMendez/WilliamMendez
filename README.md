@@ -7,4 +7,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=WilliamMendez&layout=compact&theme=algolia&langs_count=8&card_width=320" />
 </a>
 
-## Find me also on [WilliamFMendez](https://github.com/WilliamFMendez)
+### Find me on [WilliamFMendez](https://github.com/WilliamFMendez)
